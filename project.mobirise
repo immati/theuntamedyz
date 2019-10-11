@@ -71,7 +71,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "The Untamed",
+          "title": "The Untamed<br>",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header2-4\" data-toolbar=\"-mbrBtnMove\">Wei Wuxian</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header2-8\" data-toolbar=\"-mbrBtnMove\">Lan Wangji</a>",
           "_tags": [
@@ -87,6 +87,10 @@
             },
             ".btn": {
               "font-size": "18px"
+            },
+            ".mbr-section-title I": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -449,7 +453,7 @@
                 "title": "<br><br>Wang Yibo",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<p><br><br>&nbsp; &nbsp; &nbsp;หวัง <span style=\"font-style: normal;\">อี้ป๋อ (Wang Yibo) เกิดเมื่อ 5 สิงหาคม 2540 หรือ อี้ป๋อ </span><br><span style=\"font-style: normal;\">เป็นนักร้อง นักแสดง และนักแข่งรถมอเตอร์ไซค์ชาวจีน</span><br><span style=\"font-style: normal;\"> เขาเป็นสมาชิกวงไอดอล 2 สัญชาติ เกาหลี-จีน ยูนิค (UNIQ) </span><br><span style=\"font-style: normal;\">หวัง อี้ป๋อ มีชื่อเสียงจากบทบาท หลานวั่งจี ในละครเรื่อง ปรมาจารย์ลัทธิมาร (2019).</span></p>",
+                "text": "<p><br><br>&nbsp; &nbsp; &nbsp;หวัง <span style=\"font-style: normal;\">อี้ป๋อ (Wang Yibo) เกิดเมื่อ 5 สิงหาคม 2540 หรือ อี้ป๋อ </span><br><span style=\"font-style: normal;\">เป็นนักร้อง นักแสดง และนักแข่งรถมอเตอร์ไซค์ชาวจีน</span><br><span style=\"font-style: normal;\"> เขาเป็นสมาชิกวงไอดอล 2 สัญชาติ เกาหลี-จีน วงยูนิค (UNIQ) </span><br><br></p>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/watch?v=gSekyqi3hLk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">This gonna kill you</a> "
               },
               {
@@ -520,7 +524,7 @@
                 "title": "<br><br>Xiao Zhan<br>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<p>&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;</b>เซียวจ้าน เกิดเมื่อ 5 ตุลาคม พ.ศ. 2534 ที่ ฉงชิ่ง ประเทศจีน&nbsp;เป็นนักแสดงและนักร้องชาวจีน เขาเป็นสมาชิกวงไอดอลชาย X NINE เซียวจ้านมีชื่อเสียงมาจากบทบาทในละครเรื่อง ปรมาจารย์ลัทธิมาร (2019).</p>",
+                "text": "<p>&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;</b>เซียวจ้าน <span style=\"font-style: normal;\">เกิดเมื่อ 5 ตุลาคม พ.ศ. 2534 ที่ ฉงชิ่ง ประเทศจีน&nbsp;เป็นนักแสดงและนักร้องชาวจีน เขาเป็นสมาชิกวงไอดอลชาย X NINE เซียวจ้านมีชื่อเสียงมาจากบทบาทในละครเรื่อง ปรมาจารย์ลัทธิมาร (2019).</span></p>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#slider-a\" data-toolbar=\"-mbrBtnMove\">Back to Yibo</a> "
               },
               {
@@ -563,7 +567,7 @@
             "P": {
               "font-family": "'Chonburi', display",
               "googleLink": "https://fonts.googleapis.com/css?family=Chonburi:400",
-              "font-size": "20px",
+              "font-size": "18px",
               "text-align": "left",
               "color": "#ffffff"
             }
