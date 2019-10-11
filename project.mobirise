@@ -33,7 +33,7 @@
         "url": "https://fonts.googleapis.com/css?family=Chonburi:400"
       }
     ],
-    "uniqCompNum": 14,
+    "uniqCompNum": 16,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/1-uxs8t3tch59x5aobyhcoiw-128x72-1.png",
@@ -152,7 +152,7 @@
             "fontColor": "#f3c649",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-5\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-6\" aria-expanded=\"false\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-6\">CHARACTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-b\">ACTORS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-d\">BEHIND THE SCENE</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-5\"><span class=\"mbri-speed mbr-iconfont mbr-iconfont-btn\"></span>TRAILER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-6\" aria-expanded=\"true\">MORE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-6\">CHARACTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-b\">ACTORS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-d\">BEHIND THE SCENE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-f\">CREATOR</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -440,7 +440,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191011-24544-960x1200.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -454,7 +454,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -511,7 +511,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190923-211628-1802x1291.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -539,7 +539,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190923-180904-2000x1332.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -608,6 +608,53 @@
               "color": "#f7da64"
             }
           }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "21px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CREATOR",
+          "text": "<p><b><i>Atikarn Klinjan&nbsp;</i></b></p><p><i><b>Letter : Thanks to The Untamed movie&nbsp;</b></i><i><b>to made my day better and made me know the beautiful person with the cool attitude like Yibo &amp; Xiaozhan,s</b></i><i><b>o&nbsp;</b></i><i><b>I've been trough a hard time.</b></i></p><p><i><b>thank you from a bottom of my heart.</b></i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Home</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-f"
         }
       ]
     }
